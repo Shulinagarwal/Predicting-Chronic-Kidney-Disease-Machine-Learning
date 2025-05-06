@@ -18,7 +18,7 @@ Without mechanical filtering (dialysis) or a kidney transplant, chronic kidney d
 6.	**SciKit Learn**
 
 
-*Blog*:https://medium.com/@23ucs716/kidneyscan-a-machine-learning-approach-to-predicting-chronic-kidney-disease-35bc86d3210d
+*Blog*:https://medium.com/@23ucs716/kidneyscan-a-machine-learning-approach-to-predicting-chronic-kidney-disease-35bc86d3210d </br>
 *DataSet*:https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease
 
 You have to clean the dataset Then after cleaning it convert it into .csv file.
