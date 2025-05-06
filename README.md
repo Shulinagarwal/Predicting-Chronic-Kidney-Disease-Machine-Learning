@@ -16,3 +16,7 @@ Without mechanical filtering (dialysis) or a kidney transplant, chronic kidney d
 4.	**Seaborn**
 5.	**Plotly.express**
 6.	**SciKit Learn**
+
+
+*Blog*:https://medium.com/@23ucs716/kidneyscan-a-machine-learning-approach-to-predicting-chronic-kidney-disease-35bc86d3210d
+*DataSet*:https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease
